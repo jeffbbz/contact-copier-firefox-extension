@@ -5,7 +5,7 @@
 [![forthebadge](http://forthebadge.com/images/badges/made-with-javascript.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 
-A Firefox extension that allows for one click copying and formatting for Google sheets of name, url, and job title on LinkedIn for all non-pinned, open tabs, of the current browser window. 
+A Firefox extension that allows for one click copying and formatting for Google sheets of name, url, and job title, and current company on LinkedIn for all non-pinned, open tabs, of the current browser window. 
 
 It's very specific to own private current use case workflow and is barebones with no options or settings. 
 
@@ -30,7 +30,6 @@ Temporary Installation (for testing)
 4. Navigate to your extension’s folder and select the manifest.json file.
 
 5. The extension will install temporarily and stay active until you restart Firefox.
-
 
 
 
